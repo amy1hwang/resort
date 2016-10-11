@@ -1,5 +1,6 @@
 body {
   background-color: #394428;
+  text-align: center;
 }
 
 img {
@@ -9,5 +10,5 @@ img {
 }
 a {
   width: 200px;
-  margin-left: 200;
+  line-height: 1.4em;
 }
