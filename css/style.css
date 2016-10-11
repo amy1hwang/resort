@@ -1,0 +1,13 @@
+body {
+  background-color: #394428;
+}
+
+img {
+  width: 200px;
+  display: block;
+  margin: 0 auto;
+}
+a {
+  width: 200px;
+  margin-left: 200;
+}
